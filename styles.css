@@ -42,6 +42,9 @@ h3{
   text-decoration: none;
 }
 
+/* Credit - w3schools */
+
+
 .modal {
   display: none;
   position: fixed;
@@ -56,7 +59,6 @@ h3{
   background-color: rgba(0,0,0,0.4);
 }
 
-/* Modal Content */
 .modal-content {
   background-color: #fefefe;
   margin: auto;
@@ -65,7 +67,6 @@ h3{
   width: 80%;
 }
 
-/* The Close Button */
 .close {
   color: #aaaaaa;
   float: right;
