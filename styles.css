@@ -32,15 +32,9 @@ h3{
 .donate {
   color: #ffffff;
   font-size: 15px;
-  background: rgb(119,238,223);
+  background: #25beab;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  border: 3px solid rgb(119,238,223);
+  border: 3px solid #25beab;
 }
 
-.donate:focus, .donate:hover {
-  border: 3px solid #25beab;
-  background-color: #25beab;
-  color: #ffffff);
-  text-decoration: none;
-}
